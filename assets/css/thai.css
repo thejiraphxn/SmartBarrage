@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Athiti:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chonburi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarabun:wght@500&family=Work+Sans&display=swap');
+
+
+h1,h2,h3,h4,h5,h6,p,a,input,body,label,button,::placeholder,option,td,tr,table{
+    font-family: 'Athiti', sans-serif !important;
+}
+    @font-face {
+        font-family: 'Athiti', sans-serif;
+        src: url('https://fonts.googleapis.com/css2?family=Athiti:wght@700&display=swap');
+    }
+
+    .font{
+        font-family: 'Athiti', sans-serif !important;
+    }
+
+    div{
+        font-family: 'Athiti', sans-serif !important; 
+    }
+
+    .chonburi-font{
+        font-family: 'Chonburi', cursive !important;
+    }
+
+    .noto-sans{
+        font-family: 'Noto Sans Thai', sans-serif !important;
+        color: #333;
+    }
+
+    .sarabun{
+        font-family: 'Sarabun', sans-serif !important;
+    }
+
+    .gradient{
+        font-family: 'Poppins', sans-serif !important;
+        /* font-size: 50px; */
+        font-weight: bold;
+        background: linear-gradient(90deg, rgba(2,122,152,1) 0%, rgba(21,188,181,1) 66%);
+        /* background: -webkit-linear-gradient(#5643E3, #56C1FF); */
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .gradient-normal{
+        font-weight: bold;
+        background: linear-gradient(90deg, rgba(2,122,152,1) 0%, rgba(21,188,181,1) 66%);
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-size: 2rem !important;
+    }
+
+    .gradient2{
+        font-family: 'Poppins', sans-serif !important;
+        font-size: 5rem;
+        font-weight: bold;
+        background: linear-gradient(90deg, #4C9779 0%, #3578ae 66%);
+        /* background: -webkit-linear-gradient(#5643E3, #56C1FF); */
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .gradient2-normal{
+        font-weight: bold;
+        background: linear-gradient(90deg, #4C9779 0%, #3578ae 66%);
+        /* background: -webkit-linear-gradient(#5643E3, #56C1FF); */
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+    .smktitle{
+        font-family: 'Poppins', sans-serif !important;
+        /* font-size: 50px; */
+        font-weight: bold;
+        background: linear-gradient(90deg, #4C9779 0%, #3578ae 66%);
+        /* background: -webkit-linear-gradient(#5643E3, #56C1FF); */
+        -webkit-background-clip: text;
+        background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+
+   
+    
